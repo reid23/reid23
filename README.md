@@ -1,8 +1,9 @@
 Hi, I'm Reid!
-I don't know what else to put here.
 
-uh
+FTC 12635 and random projects
 
-So that's my bio!
+so uh
+
+that's my bio!
 
 '); DROP TABLE repo_files;--
