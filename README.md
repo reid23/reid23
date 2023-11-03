@@ -1,9 +1,5 @@
-Hi, I'm Reid!
+cal '27, ftc 12635a, csus '23
 
-FTC 12635 and random projects
-
-so uh
-
-that's my bio!
+perpetual clown
 
 '); DROP TABLE repo_files;--
